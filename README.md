@@ -129,13 +129,3 @@ Aşağıda proje çalıştırıldığında alınan örnek çıktılardan bazıla
  
 
  
-
-## Katkıda Bulunmak 
-
-Her türlü geri bildirim, öneri veya katkılarınız için issue açabilir ya da pull request gönderebilirsiniz. Proje geliştirmeye açıktır. 
-
- ## Lisans 
-
-Bu proje açık kaynak olarak sunulmuştur. Ticari ya da akademik projelerde dilediğiniz gibi kullanabilirsiniz, ancak kaynak göstermeyi unutmayın. 
- 
- 
